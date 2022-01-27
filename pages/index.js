@@ -56,7 +56,7 @@ function Titulo(props) {
 //     return (
 //         <div>
 //             <GlobalStyle />
-//             <Titulo tag="h2">Boas vindas de volta!</Titulo>
+//             <Titulo tag="h2">Bem vindo (a)!</Titulo>
 //             <h2>Discord - Alura Matrix</h2>
 //         </div>
 //     )
@@ -64,7 +64,7 @@ function Titulo(props) {
 // export default HomePage
 
 export default function PaginaInicial() {
-  const username = 'peas';
+  const username = 'WalysonMoura';
 
   return (
     <>
