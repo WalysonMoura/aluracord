@@ -25,7 +25,7 @@ function Titulo(props) {
 //     return (
 //         <div>
 //             <GlobalStyle />
-//             <Titulo tag="h2">Boas vindas de volta!</Titulo>
+//             <Titulo tag="h2">Bem vindo (a)!</Titulo>
 //             <h2>Discord - Alura Matrix</h2>
 //         </div>
 //     )
@@ -34,7 +34,7 @@ function Titulo(props) {
 
 export default function PaginaInicial() {
   // const username = 'omariosouto';
-  const [username, setUsername] = React.useState('omariosouto');
+  const [username, setUsername] = React.useState('WalysonMoura');
   const roteamento = useRouter();
 
   return (
