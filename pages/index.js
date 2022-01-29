@@ -44,6 +44,7 @@ export default function PaginaInicial() {
           display: 'flex', alignItems: 'center', justifyContent: 'center',
           backgroundColor: appConfig.theme.colors.primary[500],
           backgroundImage: 'url(https://i.ibb.co/gM8ptjq/4882066.jpg)',
+          backgroundPosition: 'center center',
           backgroundRepeat: 'no-repeat', backgroundSize: 'cover', 
         }}
       >
