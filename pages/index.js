@@ -139,7 +139,7 @@ export default function PaginaInicial() {
               padding: '16px',
               backgroundColor: appConfig.theme.colors.neutrals[700],
               border: '1px solid',
-              borderColor: appConfig.theme.colors.neutrals[999],
+              borderColor: appConfig.theme.colors.neutrals[700],
               borderRadius: '10px',
               flex: 1,
               minHeight: '240px',
